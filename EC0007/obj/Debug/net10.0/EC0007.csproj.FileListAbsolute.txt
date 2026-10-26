@@ -1,0 +1,14 @@
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\bin\Debug\net10.0\EC0007.exe
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\bin\Debug\net10.0\EC0007.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.AssemblyInfoInputs.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.AssemblyInfo.cs
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\refint\EC0007.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.pdb
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\bin\Debug\net10.0\EC0007.deps.json
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\bin\Debug\net10.0\EC0007.runtimeconfig.json
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\bin\Debug\net10.0\EC0007.pdb
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\EC0007.genruntimeconfig.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0007\obj\Debug\net10.0\ref\EC0007.dll

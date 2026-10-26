@@ -1,0 +1,14 @@
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\bin\Debug\net9.0\EC0058.exe
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\bin\Debug\net9.0\EC0058.deps.json
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\bin\Debug\net9.0\EC0058.runtimeconfig.json
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\bin\Debug\net9.0\EC0058.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\bin\Debug\net9.0\EC0058.pdb
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.AssemblyInfoInputs.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.AssemblyInfo.cs
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.csproj.CoreCompileInputs.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\refint\EC0058.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.pdb
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\EC0058.genruntimeconfig.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0058\obj\Debug\net9.0\ref\EC0058.dll

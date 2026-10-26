@@ -1,0 +1,14 @@
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\bin\Debug\net10.0\EC0005.exe
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\bin\Debug\net10.0\EC0005.deps.json
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\bin\Debug\net10.0\EC0005.runtimeconfig.json
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\bin\Debug\net10.0\EC0005.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\bin\Debug\net10.0\EC0005.pdb
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.AssemblyInfoInputs.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.AssemblyInfo.cs
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\refint\EC0005.dll
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.pdb
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\EC0005.genruntimeconfig.cache
+C:\Users\Ivan Castizo\Desktop\Ejercicios C#\EC0005\obj\Debug\net10.0\ref\EC0005.dll

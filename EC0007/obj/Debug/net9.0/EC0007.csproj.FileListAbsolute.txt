@@ -1,0 +1,14 @@
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\bin\Debug\net9.0\EC0007.exe
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\bin\Debug\net9.0\EC0007.deps.json
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\bin\Debug\net9.0\EC0007.runtimeconfig.json
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\bin\Debug\net9.0\EC0007.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\bin\Debug\net9.0\EC0007.pdb
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.AssemblyInfoInputs.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.AssemblyInfo.cs
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.csproj.CoreCompileInputs.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\refint\EC0007.dll
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.pdb
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\EC0007.genruntimeconfig.cache
+C:\Users\albav\Desktop\Ejercicios C#\EC0007\obj\Debug\net9.0\ref\EC0007.dll
